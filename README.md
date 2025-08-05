@@ -1,6 +1,6 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=livrasand&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=livrasand">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=livrasand&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=livrasand&theme=transparent">
  </p>
 
