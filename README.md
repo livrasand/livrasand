@@ -63,9 +63,9 @@ I'm livrasand, Fullstack developer from <img src="https://cdn-icons-png.flaticon
   <img height="250em" src="https://quotes-github-readme.vercel.app/api?border=true" alt="Dev Quote" align="right"/>
 </p>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=livrasand&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=livrasand&hide_border=true&theme=transparent" />
 
-### Show some ❤️ by starring some of the repositories!
+### Show some 💙 by starring some of the repositories!
 
 </br>
 </br>
