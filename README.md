@@ -39,6 +39,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sublimetext.svg" alt="sublimetext" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://imgur.com/user/livrasand" target="_blank" style='margin-right:10px'> 
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/imgur.svg" alt="imgur" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://open.spotify.com/user/livrado_alejandro" target="_blank" style='margin-right:10px'> 
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/spotify.svg" alt="spotify" height="22px" width="22px" />
   </a>
@@ -62,3 +66,8 @@ I'm livrasand, Fullstack developer from <img src="https://cdn-icons-png.flaticon
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=livrasand&hide_border=true" />
 
 ### Show some ❤️ by starring some of the repositories!
+
+</br>
+</br>
+
+[![ReadmeChess](https://github-readme-chess.vercel.app/api/chessboard?user=livrasand)](https://github-readme-chess.vercel.app/play?user=livrasand)
