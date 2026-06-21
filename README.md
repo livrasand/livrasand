@@ -35,16 +35,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gitlab.svg" alt="gitlab" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://packagecontrol.io/browse/authors/Livrädo%20Sandoval" target="_blank" style='margin-right:10px'> 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sublimetext.svg" alt="sublimetext" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://imgur.com/user/livrasand" target="_blank" style='margin-right:10px'> 
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/imgur.svg" alt="imgur" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/livrado_alejandro" target="_blank" style='margin-right:10px'> 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/spotify.svg" alt="spotify" height="22px" width="22px" />
   </a>
 </p>
 
