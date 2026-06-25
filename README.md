@@ -52,7 +52,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 I'm livrasand, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/8635/8635653.png" width="13"/> <b>127.0.0.EARTH</b>, Currently working on [gitGost](https://github.com/livrasand/gitGost), [CodeTrackr](https://github.com/livrasand/CodeTrackr), [Browseraptor](https://github.com/livrasand/Browseraptor) and open-source projects that prioritize privacy.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=livrasand.livrasand)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=livrasand.livrasand&left_color=%23000&right_color=%232f80ed)
 
 <a>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=livrasand&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" align="right" />
