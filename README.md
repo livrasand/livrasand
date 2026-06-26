@@ -3,7 +3,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /> Hey there! I'm <a href="https://github.com/livrasand" target="_blank">@livrasand</a>
 
 <p align="center" style="margin: -20px 0 30px">
-   <a href="" target="_blank" style='margin-right:10px'>
+   <a href="https://medium.com/@livrasand" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/medium.svg" alt="medium" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
@@ -31,20 +31,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pypi.svg" alt="pypi" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://news.ycombinator.com/user?id=livrasand" target="_blank" style='margin-right:10px'> 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/ycombinator.svg" alt="ycombinator" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.vbforums.com/member.php?308703-livrasand" target="_blank" style='margin-right:10px'> 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/dotnet.svg" alt="dotnet" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://gitlab.com/livrasand" target="_blank" style='margin-right:10px'> 
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gitlab.svg" alt="gitlab" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://imgur.com/user/livrasand" target="_blank" style='margin-right:10px'> 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/imgur.svg" alt="imgur" height="22px" width="22px" />
   </a>
 </p>
 
@@ -60,7 +48,7 @@ I'm livrasand, Fullstack developer from <img src="https://cdn-icons-png.flaticon
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livrasand&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <p align="right">
-  <img height="250em" src="https://quotes-github-readme.vercel.app/api?border=true" alt="Dev Quote" align="right"/>
+  <img height="235em" src="https://quotes-github-readme.vercel.app/api?border=true" alt="Dev Quote" align="right"/>
 </p>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=livrasand&hide_border=true&theme=transparent" />
