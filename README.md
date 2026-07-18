@@ -38,7 +38,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 </h1>
 
-I'm livrasand, fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/8635/8635653.png" width="13"/> <b>127.0.0.EARTH</b>, currently working on [gitGost](https://github.com/livrasand/gitGost), [CodeTrackr](https://github.com/livrasand/CodeTrackr), [Browseraptor](https://github.com/livrasand/Browseraptor), [JFORM](https://github.com/livrasand/jform), [Menta CAPTCHA](https://github.com/livrasand/mentacaptcha) and open-source projects that prioritize privacy.
+I'm livrasand, fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/8635/8635653.png" width="13"/> <b>127.0.0.EARTH</b>, currently working on [gitGost](https://github.com/livrasand/gitGost), [Browseraptor](https://github.com/livrasand/Browseraptor), [Menta CAPTCHA](https://github.com/livrasand/mentacaptcha) and open-source projects that prioritize privacy.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=livrasand.livrasand&left_color=%23000&right_color=%232f80ed)
 
