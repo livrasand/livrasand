@@ -54,8 +54,3 @@ I'm livrasand, fullstack developer from <img src="https://cdn-icons-png.flaticon
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=livrasand&hide_border=true&theme=transparent" />
 
 ### Show some 💙 by starring some of the repositories!
-
-</br>
-</br>
-
-[![ReadmeChess](https://github-readme-chess.vercel.app/api/chessboard?user=livrasand)](https://github-readme-chess.vercel.app/play?user=livrasand)
