@@ -40,12 +40,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 I'm livrasand, fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/8635/8635653.png" width="13"/> <b>127.0.0.EARTH</b>, currently working on [gitGost](https://github.com/livrasand/gitGost), [Browseraptor](https://github.com/livrasand/Browseraptor), [Menta CAPTCHA](https://github.com/livrasand/mentacaptcha) and open-source projects that prioritize privacy.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=livrasand.livrasand&left_color=%23000&right_color=%232f80ed)
-
-<a>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=livrasand&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" align="right" />
-</a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=livrasand&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![visitors](https://viewlet.vercel.app/badge?page_id=livrasand.livrasand&left_color=%23000&right_color=%232f80ed)
 
 <p align="right">
   <img height="235em" src="https://quotes-github-readme.vercel.app/api?border=true" alt="Dev Quote" align="right"/>
