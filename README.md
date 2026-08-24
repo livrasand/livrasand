@@ -42,10 +42,19 @@ I'm livrasand, fullstack developer from <img src="https://cdn-icons-png.flaticon
 
 ![visitors](https://viewlet.vercel.app/badge?page_id=livrasand.livrasand&left_color=%23000&right_color=%232f80ed)
 
+
 <p align="right">
-  <img height="235em" src="https://quotes-github-readme.vercel.app/api?border=true" alt="Dev Quote" align="right"/>
+  <img height="235em" src="https://github-stats-extended.vercel.app/api/top-langs?username=livrasand&layout=compact&langs_count=20&theme=default_repocard" align="right"/>
 </p>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=livrasand&hide_border=true&theme=transparent" />
 
 ### Show some 💙 by starring some of the repositories!
+
+<br clear="both" />
+
+<p align="right">
+  <a href="https://notbyai.fyi/#not-by-ai-mission">
+    <img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
+  </a>
+</p>
