@@ -3,16 +3,8 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /> Hey there! I'm <a href="https://github.com/livrasand" target="_blank">@livrasand</a>
 
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://medium.com/@livrasand" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/medium.svg" alt="medium" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dev.to/livrasand" target="_blank" style='margin-right:10px'>
+   <a href="https://dev.to/livrasand" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/devdotto.svg" alt="devdotto" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://hashnode.com/@livrasand" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/hashnode.svg" alt="hashnode" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.indiehackers.com/livrasand" target="_blank" style='margin-right:10px'>
