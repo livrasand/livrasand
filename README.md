@@ -7,10 +7,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/devdotto.svg" alt="devdotto" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.indiehackers.com/livrasand" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/indiehackers.svg" alt="indiehackers" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.reddit.com/user/livrasand/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/reddit.svg" alt="linkedin" height="22px" width="22px" />
   </a>
@@ -25,6 +21,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   &nbsp;&nbsp;
   <a href="https://gitlab.com/livrasand" target="_blank" style='margin-right:10px'> 
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gitlab.svg" alt="gitlab" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeberg.org/livrasand" target="_blank" style='margin-right:10px'> 
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/codeberg.svg" alt="gitlab" height="22px" width="22px" />
   </a>
 </p>
 
