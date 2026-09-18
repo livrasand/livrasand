@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>livrasand · music</title>
+<link href="styles.css" rel="stylesheet">
+<link href="favicon.jpeg" rel="icon" type="image/jpeg">
+</head>
+<body>
+<main>
+<span class="comment">// my original music</span>
+<span><span class="kw">const</span> tracks <span class="kw">=</span> [</span>
+<span id="music-list"><span class="comment">loading...</span></span>
+<span><span>]</span></span>
+<div class="vscode-terminal" id="terminal-panel">
+<div class="term-tabs" role="tablist">
+<button class="term-tab active" type="button" role="tab" aria-selected="true"><span class="term-tab-icon"><svg width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M18.75 1.5H5.25C3.1815 1.5 1.5 3.183 1.5 5.25V18.75C1.5 20.8185 3.1815 22.5 5.25 22.5H18.75C20.8185 22.5 22.5 20.8185 22.5 18.75V5.25C22.5 3.183 20.8185 1.5 18.75 1.5ZM21 18.75C21 19.9905 19.9905 21 18.75 21H5.25C4.0095 21 3 19.9905 3 18.75V5.25C3 4.0095 4.0095 3 5.25 3H18.75C19.9905 3 21 4.0095 21 5.25V18.75ZM10.281 13.281L5.781 17.781C5.634 17.928 5.442 18 5.25 18C5.058 18 4.866 17.9265 4.719 17.781C4.4265 17.4885 4.4265 17.013 4.719 16.7205L8.688 12.7515L4.719 8.7825C4.4265 8.49 4.4265 8.0145 4.719 7.722C5.0115 7.4295 5.487 7.4295 5.7795 7.722L10.2795 12.222C10.572 12.5145 10.572 12.99 10.2795 13.2825L10.281 13.281ZM19.5 17.25C19.5 17.664 19.164 18 18.75 18H11.25C10.836 18 10.5 17.664 10.5 17.25C10.5 16.836 10.836 16.5 11.25 16.5H18.75C19.164 16.5 19.5 16.836 19.5 17.25Z"/></svg></span>zsh<span class="term-tab-close" aria-label="close tab"><svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M8 7.29289L4.35355 3.64645L3.64645 4.35355L7.29289 8L3.64645 11.6464L4.35355 12.3536L8 8.70711L11.6464 12.3536L12.3536 11.6464L8.70711 8L12.3536 4.35355L11.6464 3.64645L8 7.29289Z"/></svg></span></button>
+</div>
+<div class="term-body">
+<form class="terminal-form" action="https://formspree.io/f/myezzbjp" method="post">
+<label class="term-field">
+<span class="term-prompt"><span class="kw">$</span> <span class="prop">./contact --name</span></span>
+<input type="text" name="name" placeholder="your_name" autocomplete="name" required>
+</label>
+<label class="term-field">
+<span class="term-prompt"><span class="kw">$</span> <span class="prop">./contact --email</span></span>
+<input type="email" name="email" placeholder="you@domain.tld" autocomplete="email" required>
+</label>
+<label class="term-field">
+<span class="term-prompt"><span class="kw">$</span> <span class="prop">./contact --message</span></span>
+<textarea name="message" placeholder="your message..." required></textarea>
+</label>
+<div class="term-actions">
+<span class="term-prompt"><span class="kw">$</span> <span class="prop">./send</span></span>
+<button type="submit" class="term-submit">send</button>
+</div>
+<span class="term-output" aria-live="polite"></span>
+</form>
+</div>
+</div>
+</main>
+<footer class="statusbar">
+<div class="statusbar-left">
+<div class="dropdown">
+<button class="dropdown-toggle statusbar-item"><span class="dropdown-icon"><svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M12 5.20951V10.2675C11.7058 10.0974 11.3643 9.99998 11 9.99998C9.89543 9.99998 9 10.8954 9 12C9 13.1045 9.89543 14 11 14C12.1046 14 13 13.1045 13 12V1.92568C13 1.37245 12.4519 0.986213 11.9309 1.17228L5.53093 3.458C5.21254 3.57171 5 3.8733 5 4.21139V11.2675C4.70583 11.0974 4.36429 11 4 11C2.89543 11 2 11.8954 2 13C2 14.1045 2.89543 15 4 15C5.10457 15 6 14.1045 6 13V7.35237L12 5.20951ZM12 4.14765L6 6.2905V4.35233L12 2.20948V4.14765ZM11 11C11.5523 11 12 11.4477 12 12C12 12.5523 11.5523 13 11 13C10.4477 13 10 12.5523 10 12C10 11.4477 10.4477 11 11 11ZM4 12C4.55228 12 5 12.4477 5 13C5 13.5523 4.55228 14 4 14C3.44772 14 3 13.5523 3 13C3 12.4477 3.44772 12 4 12Z"/></svg></span><span class="dropdown-label">music</span>
+</button>
+<ul class="dropdown-menu">
+<li><button data-target="main" class="dropdown-option">main</button></li>
+<li><button data-target="projects" class="dropdown-option">projects</button></li>
+<li><button data-target="work" class="dropdown-option">work</button></li>
+<li><button data-target="music" class="dropdown-option">music</button></li>
+<li><button data-target="contact" class="dropdown-option">contact</button></li>
+<li><button data-target="thanks" class="dropdown-option">thanks</button></li>
+<li class="dropdown-divider"></li>
+<li><button class="dropdown-option" id="toggle-theme">theme: dark</button></li>
+</ul>
+</div>
+</div>
+<div class="statusbar-right">
+<button class="statusbar-item terminal-toggle" id="terminal-toggle" type="button" aria-expanded="false" aria-controls="terminal-panel" aria-label="open terminal" title="open terminal"><svg width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><path d="M18.75 1.5H5.25C3.1815 1.5 1.5 3.183 1.5 5.25V18.75C1.5 20.8185 3.1815 22.5 5.25 22.5H18.75C20.8185 22.5 22.5 20.8185 22.5 18.75V5.25C22.5 3.183 20.8185 1.5 18.75 1.5ZM21 18.75C21 19.9905 19.9905 21 18.75 21H5.25C4.0095 21 3 19.9905 3 18.75V5.25C3 4.0095 4.0095 3 5.25 3H18.75C19.9905 3 21 4.0095 21 5.25V18.75ZM10.281 13.281L5.781 17.781C5.634 17.928 5.442 18 5.25 18C5.058 18 4.866 17.9265 4.719 17.781C4.4265 17.4885 4.4265 17.013 4.719 16.7205L8.688 12.7515L4.719 8.7825C4.4265 8.49 4.4265 8.0145 4.719 7.722C5.0115 7.4295 5.487 7.4295 5.7795 7.722L10.2795 12.222C10.572 12.5145 10.572 12.99 10.2795 13.2825L10.281 13.281ZM19.5 17.25C19.5 17.664 19.164 18 18.75 18H11.25C10.836 18 10.5 17.664 10.5 17.25C10.5 16.836 10.836 16.5 11.25 16.5H18.75C19.164 16.5 19.5 16.836 19.5 17.25Z"/></svg></button>
+<span class="statusbar-item statusbar-brand">livrasand</span>
+<img class="statusbar-avatar" src="favicon.jpeg" alt="livrasand">
+</div>
+</footer>
+<script src="main.js"></script>
+<script>
+(function() {
+  var c, form, list, output, panel, toggle;
+  panel = document.getElementById('terminal-panel');
+  toggle = document.getElementById('terminal-toggle');
+  form = document.querySelector('.terminal-form');
+
+  var PLAY_ICON = '<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M8 5v14l11-7z"></path></svg>';
+  var PAUSE_ICON = '<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M6 5h4v14H6zM14 5h4v14h-4z"></path></svg>';
+
+  function fmt(sec) {
+    sec = Math.max(0, Math.floor(sec || 0));
+    var m = Math.floor(sec / 60);
+    var s = sec % 60;
+    return m + ':' + (s < 10 ? '0' + s : s);
+  }
+
+  function wirePlayer(audio, btn, time, dur, seek, fill) {
+    function setPlaying(playing) {
+      btn.innerHTML = playing ? PAUSE_ICON : PLAY_ICON;
+      btn.setAttribute('aria-label', playing ? 'pause' : 'play');
+    }
+    btn.addEventListener('click', function() {
+      if (audio.paused) {
+        var r = audio.play();
+        if (r && r.catch) { r.catch(function() {}); }
+      } else {
+        audio.pause();
+      }
+    });
+    audio.addEventListener('play', function() { setPlaying(true); });
+    audio.addEventListener('pause', function() { setPlaying(false); });
+    audio.addEventListener('ended', function() { setPlaying(false); });
+    audio.addEventListener('loadedmetadata', function() {
+      dur.textContent = fmt(audio.duration);
+      seek.setAttribute('aria-valuemax', String(Math.floor(audio.duration) || 0));
+    });
+    audio.addEventListener('timeupdate', function() {
+      time.textContent = fmt(audio.currentTime);
+      seek.setAttribute('aria-valuenow', String(Math.floor(audio.currentTime) || 0));
+      if (audio.duration) {
+        fill.style.width = Math.min(100, (audio.currentTime / audio.duration) * 100) + '%';
+      }
+    });
+    function seekTo(clientX) {
+      var r = seek.getBoundingClientRect();
+      if (!r.width) { return; }
+      var ratio = (clientX - r.left) / r.width;
+      audio.currentTime = Math.max(0, Math.min(1, ratio)) * audio.duration;
+    }
+    seek.addEventListener('click', function(ev) {
+      if (!audio.duration) { return; }
+      seekTo(ev.clientX);
+    });
+    seek.addEventListener('keydown', function(ev) {
+      var k = ev.key;
+      if (k === 'ArrowRight') { ev.preventDefault(); audio.currentTime = Math.min(audio.duration || 0, audio.currentTime + 5); }
+      else if (k === 'ArrowLeft') { ev.preventDefault(); audio.currentTime = Math.max(0, audio.currentTime - 5); }
+      else if (k === 'Home') { ev.preventDefault(); audio.currentTime = 0; }
+      else if (k === 'End') { ev.preventDefault(); audio.currentTime = audio.duration || 0; }
+    });
+  }
+
+  function trackCard(track) {
+    var audio, btn, card, cover, dur, fill, line, name, note, player, prop, seek, time;
+    card = document.createElement('span');
+    card.className = 'project';
+    line = document.createElement('span');
+    line.className = 'project-line';
+    cover = document.createElement('img');
+    cover.className = 'track-cover';
+    cover.src = track.cover;
+    cover.alt = '';
+    line.appendChild(cover);
+    prop = document.createElement('span');
+    prop.className = 'prop';
+    prop.style.paddingLeft = '15px';
+    prop.textContent = 'track:';
+    name = document.createElement('span');
+    name.className = 'project-name';
+    name.textContent = '"' + track.name + '",';
+    line.appendChild(prop);
+    line.appendChild(name);
+    card.appendChild(line);
+    audio = new Audio(track.url);
+    audio.preload = 'none';
+    player = document.createElement('span');
+    player.className = 'player';
+    btn = document.createElement('button');
+    btn.className = 'player-btn';
+    btn.type = 'button';
+    btn.setAttribute('aria-label', 'play');
+    btn.innerHTML = PLAY_ICON;
+    time = document.createElement('span');
+    time.className = 'player-time';
+    time.textContent = '0:00';
+    seek = document.createElement('span');
+    seek.className = 'player-seek';
+    seek.setAttribute('role', 'slider');
+    seek.setAttribute('aria-label', 'seek');
+    seek.setAttribute('aria-valuemin', '0');
+    seek.setAttribute('aria-valuemax', '0');
+    seek.setAttribute('aria-valuenow', '0');
+    seek.tabIndex = 0;
+    fill = document.createElement('span');
+    fill.className = 'player-seek-fill';
+    seek.appendChild(fill);
+    dur = document.createElement('span');
+    dur.className = 'player-dur';
+    dur.textContent = '0:00';
+    player.appendChild(btn);
+    player.appendChild(time);
+    player.appendChild(seek);
+    player.appendChild(dur);
+    wirePlayer(audio, btn, time, dur, seek, fill);
+    card.appendChild(player);
+    note = document.createElement('span');
+    note.className = 'track-note';
+    note.textContent = track.note ? '// author\'s note: ' + track.note : '';
+    card.appendChild(note);
+    return card;
+  }
+
+  list = document.getElementById('music-list');
+  fetch('api/music', { headers: { 'Accept': 'application/json' } })
+    .then(function(response) { return response.json(); })
+    .then(function(data) {
+      if (!list) { return; }
+      list.textContent = '';
+      if (!data || data.length === 0) {
+        c = document.createElement('span');
+        c.className = 'comment';
+        c.textContent = '// no tracks yet — coming soon.';
+        list.appendChild(c);
+        return;
+      }
+      for (var i = 0; i < data.length; i++) {
+        list.appendChild(trackCard(data[i]));
+      }
+    })
+    .catch(function() {
+      if (!list) { return; }
+      list.textContent = '';
+      c = document.createElement('span');
+      c.className = 'comment';
+      c.textContent = '// error loading tracks — try again later.';
+      list.appendChild(c);
+    });
+
+  function setOpen(open) {
+    if (!panel) {
+      return;
+    }
+    panel.classList.toggle('open', open);
+    if (toggle) {
+      toggle.classList.toggle('active', open);
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+    if (open && form) {
+      form.querySelector('input, textarea').focus();
+    }
+  }
+
+  if (toggle && panel) {
+    toggle.addEventListener('click', function() {
+      setOpen(!panel.classList.contains('open'));
+    });
+  }
+
+  output = form ? form.querySelector('.term-output') : null;
+  if (!form) {
+    return;
+  }
+  form.addEventListener('submit', function(event) {
+    event.preventDefault();
+    var data = new FormData(form);
+    output.textContent = '[ ... ] sending — please wait.';
+    fetch(form.getAttribute('action'), {
+      method: 'POST',
+      body: data,
+      headers: { 'Accept': 'application/json' }
+    }).then(function(response) {
+      if (response.ok) {
+        output.textContent = '[ ok ] message sent — i\'ll get back to you soon.';
+        form.reset();
+      } else {
+        return response.json().then(function(err) {
+          throw new Error(err.errors ? err.errors.map(function(e) { return e.message; }).join(', ') : 'request failed');
+        });
+      }
+    }).catch(function(err) {
+      output.textContent = '[ error ] ' + err.message + ' — please try again.';
+    }).then(function() {
+      return output.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
+  });
+
+  var closeBtn = panel ? panel.querySelector('.term-tab-close') : null;
+  if (closeBtn) {
+    closeBtn.addEventListener('click', function() {
+      setOpen(false);
+    });
+  }
+})();
+</script>
+</body>
+</html>

@@ -146,6 +146,99 @@ main > span:nth-child(14) { animation-delay: 0.96s; }
   display: block;
 }
 
+.track-cover {
+  display: inline-block;
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 0.5rem;
+  border-radius: 3px;
+  border: 1px solid var(--comment);
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.track-note {
+  display: block;
+  margin-left: 15px;
+  margin-top: 0.3rem;
+  color: var(--comment);
+  font-size: 0.85em;
+  line-height: 1.5;
+  max-width: 70ch;
+}
+
+.player {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: 15px;
+  margin-top: 0.3rem;
+  width: min(100% - 30px, 420px);
+  padding: 2px 6px;
+  box-sizing: border-box;
+  background: var(--statusbar-bg);
+  border: 1px solid var(--statusbar-border);
+  border-radius: 4px;
+}
+
+.player-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  border: 0;
+  background: none;
+  border-radius: 2px;
+  cursor: pointer;
+  color: var(--string);
+}
+
+.player-btn:hover {
+  background: var(--statusbar-hover-bg);
+}
+
+.player-btn:focus-visible,
+.player-seek:focus-visible {
+  outline: 1px solid var(--string);
+  outline-offset: 1px;
+}
+
+.player-time,
+.player-dur {
+  color: var(--comment);
+  font-size: 0.85em;
+  line-height: 1;
+  min-width: 2.6em;
+}
+
+.player-time {
+  text-align: right;
+}
+
+.player-dur {
+  text-align: left;
+}
+
+.player-seek {
+  position: relative;
+  flex: 1 1 auto;
+  min-width: 48px;
+  height: 6px;
+  background: var(--statusbar-border);
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.player-seek-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 0;
+  background: var(--string);
+  border-radius: 3px;
+}
+
 .project-name,
 .project-path {
   overflow: hidden;
@@ -573,6 +666,11 @@ main > span:nth-child(14) { animation-delay: 0.96s; }
   }
 
   .terminal-toggle svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .player-btn svg {
     width: 18px;
     height: 18px;
   }
