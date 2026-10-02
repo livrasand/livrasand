@@ -32,7 +32,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 I'm livrasand, fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/8635/8635653.png" width="13"/> <b>127.0.0.EARTH</b>, currently working on [gitGost](https://github.com/livrasand/gitGost) and open-source projects that prioritize privacy.
 
-![visitors](https://viewlet.vercel.app/badge?page_id=livrasand.livrasand&left_color=%23000&right_color=%232f80ed)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=livrasand.livrasand&style=for-the-badge&left_color=%23000&right_color=%232f80ed" alt="Views">
 
 
 <p align="right">
