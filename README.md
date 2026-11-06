@@ -54,3 +54,7 @@ I'm livrasand, fullstack developer from <img src="https://cdn-icons-png.flaticon
     <img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
   </a>
 </p>
+
+<br clear="both" />
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=b5af162d1b4462ed94af61e8b852559b&theme=transparent)](https://gist.github.com/livrasand/b5af162d1b4462ed94af61e8b852559b)
