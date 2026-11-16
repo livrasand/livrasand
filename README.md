@@ -58,4 +58,9 @@ I'm livrasand, fullstack developer from <img src="https://cdn-icons-png.flaticon
 
 <br clear="both" />
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=b5af162d1b4462ed94af61e8b852559b&theme=transparent)](https://gist.github.com/livrasand/b5af162d1b4462ed94af61e8b852559b)
+<h1 align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=b5af162d1b4462ed94af61e8b852559b&theme=transparent)](https://gist.github.com/livrasand/b5af162d1b4462ed94af61e8b852559b) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=646b86dbcd0fe27ec0b326574e68cb03&description_lines_count=3&theme=transparent)](https://gist.github.com/livrasand/646b86dbcd0fe27ec0b326574e68cb03)
+
+</h1>
