@@ -86,21 +86,4 @@ I'm livrasand, fullstack developer from <img src="https://cdn-icons-png.flaticon
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=livrasand&hide_border=true&theme=transparent" />
 
-### Show some 💙 by starring some of the repositories!
 
-<br clear="both" />
-
-<p align="right">
-  <a href="https://notbyai.fyi/#not-by-ai-mission">
-    <img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
-  </a>
-</p>
-
-<br clear="both" />
-
-<h1 align="center">
-  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=b5af162d1b4462ed94af61e8b852559b&theme=transparent)](https://gist.github.com/livrasand/b5af162d1b4462ed94af61e8b852559b) 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/gist?id=646b86dbcd0fe27ec0b326574e68cb03&description_lines_count=3&theme=transparent)](https://gist.github.com/livrasand/646b86dbcd0fe27ec0b326574e68cb03)
-
-</h1>
