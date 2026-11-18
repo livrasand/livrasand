@@ -3,32 +3,53 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /> Hey there! I'm <a href="https://github.com/livrasand" target="_blank">@livrasand</a>
 
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://dev.to/livrasand" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/devdotto.svg" alt="devdotto" height="22px" width="22px" />
+  <a href="https://dev.to/livrasand" target="_blank" style="margin-right:10px">
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/devdotto/FFFFFF" media="(prefers-color-scheme: dark)" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/devdotto.svg" alt="dev.to" height="22px" width="22px" />
+    </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/livrasand/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/reddit.svg" alt="linkedin" height="22px" width="22px" />
+  <a href="https://www.reddit.com/user/livrasand/" target="_blank" style="margin-right:10px">
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/reddit/FFFFFF" media="(prefers-color-scheme: dark)" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/reddit.svg" alt="reddit" height="22px" width="22px" />
+    </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.npmjs.com/~livrasand" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/npm.svg" alt="npm" height="22px" width="22px" />
+  <a href="https://www.npmjs.com/~livrasand" target="_blank" style="margin-right:10px">
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/npm/FFFFFF" media="(prefers-color-scheme: dark)" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/npm.svg" alt="npm" height="22px" width="22px" />
+    </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://pypi.org/user/livrasand/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pypi.svg" alt="pypi" height="22px" width="22px" />
+  <a href="https://pypi.org/user/livrasand/" target="_blank" style="margin-right:10px">
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/pypi/FFFFFF" media="(prefers-color-scheme: dark)" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/pypi.svg" alt="pypi" height="22px" width="22px" />
+    </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://gitlab.com/livrasand" target="_blank" style='margin-right:10px'> 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gitlab.svg" alt="gitlab" height="22px" width="22px" />
+  <a href="https://gitlab.com/livrasand" target="_blank" style="margin-right:10px">
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/gitlab/FFFFFF" media="(prefers-color-scheme: dark)" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gitlab.svg" alt="gitlab" height="22px" width="22px" />
+    </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://codeberg.org/livrasand" target="_blank" style='margin-right:10px'> 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/codeberg.svg" alt="gitlab" height="22px" width="22px" />
+  <a href="https://codeberg.org/livrasand" target="_blank" style="margin-right:10px">
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/codeberg/FFFFFF" media="(prefers-color-scheme: dark)" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/codeberg.svg" alt="codeberg" height="22px" width="22px" />
+    </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://gitea.com/livrasand" target="_blank" style='margin-right:10px'> 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gitea.svg" alt="gitea" height="22px" width="22px" />
+  <a href="https://gitea.com/livrasand" target="_blank" style="margin-right:10px">
+    <picture>
+      <source srcset="https://cdn.simpleicons.org/gitea/FFFFFF" media="(prefers-color-scheme: dark)" />
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gitea.svg" alt="gitea" height="22px" width="22px" />
+    </picture>
   </a>
 </p>
 
